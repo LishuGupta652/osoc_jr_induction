@@ -1,0 +1,36 @@
+commit 0c31f05fe7f4d8d2793208017fa1ec629fb257fc
+Author: lishu <lishugupta652@gmail.com>
+Date:   Mon Jan 3 14:17:40 2022 +0530
+
+    Conflict > How to
+
+commit e9e0ec5323006f89f968019861c6f142644ec67a
+Merge: 3714304 133a8bd
+Author: lishu <lishugupta652@gmail.com>
+Date:   Mon Jan 3 14:15:01 2022 +0530
+
+    conflict resolved
+
+commit 133a8bde0f54922c0d75677b588b391337c6b043
+Author: lishu <lishugupta652@gmail.com>
+Date:   Mon Jan 3 14:13:10 2022 +0530
+
+    Creating Conflict in OSOC
+
+commit 3714304a1b39a034888fc0afb26e99266dc96e89
+Author: lishu <lishugupta652@gmail.com>
+Date:   Mon Jan 3 14:12:38 2022 +0530
+
+    Creating file in main
+
+commit ad1877024e901d1f5217830eecb38b33836bd684
+Author: lishu <lishugupta652@gmail.com>
+Date:   Mon Jan 3 14:08:44 2022 +0530
+
+    Top Git Commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
